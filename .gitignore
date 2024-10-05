@@ -1,0 +1,10 @@
+The .gitignore file is used in Git to specify which files and directories should be ignored by version control. 
+When you create a .gitignore file in your repository, you can list patterns that match files you don't want to track. 
+For example:
+
+    *.log ignores all log files.
+    temp/ ignores the entire temp directory.
+    *.tmp ignores all files with a .tmp extension.
+
+When you run Git commands, it will automatically exclude these specified files from being tracked or staged for commit. 
+This is useful for preventing sensitive information, temporary files, or build artifacts from being included in your repository.

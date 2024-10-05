@@ -1,0 +1,9 @@
+The LICENSE file in a Git repository contains the legal terms under which the project's code can be used, modified, and distributed. It defines the rights and restrictions for users and contributors.
+
+Common licenses include:
+
+    MIT License: A permissive license that allows almost unrestricted use, as long as the original license and copyright notice are included.
+    GNU General Public License (GPL): Requires that any distributed modifications also be open source under the same license.
+    Apache License: Similar to the MIT License but includes provisions for patent rights.
+
+Choosing a license is crucial for clarifying how others can interact with your code, ensuring proper use and attribution. Including a LICENSE file helps promote transparency and protects both the author and users.
